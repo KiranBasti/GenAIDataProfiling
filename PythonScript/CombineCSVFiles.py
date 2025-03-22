@@ -1,6 +1,6 @@
 import pandas as pd
 import os
-# replace with your folder's path
+# replace with your folder's path locally while running
 folder_path = r'F:\GitHub\GenAIDataProfiling\InputFiles'
 all_files = os.listdir(folder_path)
 # Filter out non-CSV files
